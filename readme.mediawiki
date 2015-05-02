@@ -1,4 +1,6 @@
 == WHAT IS THIS? ==
+
+<a href="https://gitter.im/Scarfmonster/yacy_search_server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/Scarfmonster/yacy_search_server"/></a>
 YaCy is a search engine software. It takes a new approach to search
 because it does not use a central server. Instead, its search results
 come from a network of independent peers. In such a distributed network,
